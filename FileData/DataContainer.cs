@@ -44,4 +44,11 @@ public class DataContainer
         string content = File.ReadAllText(filePath);
         dataContainer = JsonSerializer.Deserialize<DataContainer>(content);
     }
+
+    public void SaveChanges()
+    {
+        string serialized = JsonSerializer.Serialize(dataContainer);
+        File.WriteAllText(filePath, serialized);
+        dataContainer = null;
+    }
 }
