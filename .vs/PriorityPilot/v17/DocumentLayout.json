@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{989E066A-9818-48DE-846F-985B1870EA68}|Domain\\Domain.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\domain\\dtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{989E066A-9818-48DE-846F-985B1870EA68}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\application\\daointerfaces\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|solutionrelative:application\\daointerfaces\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserCreationDto.cs",
-              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Domain\\DTOs\\UserCreationDto.cs",
-              "RelativeDocumentMoniker": "Domain\\DTOs\\UserCreationDto.cs",
-              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Domain\\DTOs\\UserCreationDto.cs",
-              "RelativeToolTip": "Domain\\DTOs\\UserCreationDto.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAABAwAsAAAALAAAA",
+              "Title": "IUserDao.cs",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\DaoInterfaces\\IUserDao.cs",
+              "RelativeDocumentMoniker": "Application\\DaoInterfaces\\IUserDao.cs",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\DaoInterfaces\\IUserDao.cs",
+              "RelativeToolTip": "Application\\DaoInterfaces\\IUserDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:31:41.022Z",
+              "WhenOpened": "2024-05-08T19:50:25.286Z",
               "EditorCaption": ""
             },
             {
