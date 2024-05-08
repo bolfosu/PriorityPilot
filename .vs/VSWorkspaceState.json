@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Domain",
-    "\\FileData"
+    "\\Domain\\DTOs"
   ],
-  "SelectedNode": "\\FileData\\DataContainer.cs",
+  "SelectedNode": "\\Domain\\DTOs\\UserCreationDto.cs",
   "PreviewInSolutionExplorer": false
 }
