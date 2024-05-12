@@ -18,9 +18,24 @@ namespace Application.Logic
             this.userDao = userDao;
         }
 
-        public Task<User> CreateAsync(UserCreationDto userToCreate)
+        public async Task<User> CreateAsync(UserCreationDto dto)
         {
-            throw new NotImplementedException();
+            User? existing = await userDao.GetByUsername(dto.UserName);
+            if (existing != null)
+                throw new Exception("Username already taken!");
+
+            ValidateData(dto);
+            User toCreate = new User
+            {
+                UserName = dto.UserName
+            };
+
+            User created = await userDao.Create(toCreate);
+
+            return created;
         }
+
+
     }
+
 }

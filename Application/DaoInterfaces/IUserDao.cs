@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 
 namespace Application.DaoInterfaces
 {
-    internal interface IUserDao
+    public interface IUserDao
     {
         Task<User> CreateAsync(User user);
         Task<User?> GetByUsernameAsync(string userName);
     }
+
+    
 }

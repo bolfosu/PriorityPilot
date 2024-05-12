@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\application\\logic\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|solutionrelative:application\\logic\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\application\\daointerfaces\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|solutionrelative:application\\daointerfaces\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserLogic.cs",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\Logic\\UserLogic.cs",
+              "RelativeDocumentMoniker": "Application\\Logic\\UserLogic.cs",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\Logic\\UserLogic.cs*",
+              "RelativeToolTip": "Application\\Logic\\UserLogic.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:24:50.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IUserDao.cs",
               "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\DaoInterfaces\\IUserDao.cs",
               "RelativeDocumentMoniker": "Application\\DaoInterfaces\\IUserDao.cs",
-              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\DaoInterfaces\\IUserDao.cs",
-              "RelativeToolTip": "Application\\DaoInterfaces\\IUserDao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\DaoInterfaces\\IUserDao.cs*",
+              "RelativeToolTip": "Application\\DaoInterfaces\\IUserDao.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T19:50:25.286Z",
               "EditorCaption": ""
