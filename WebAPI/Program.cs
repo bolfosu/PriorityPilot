@@ -1,9 +1,18 @@
+using Application.DaoInterfaces;
+using Application.Logic;
+using FileData.DAOs;
+using FileData;
+using static UserCreationDto;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<FileContext>();
+builder.Services.AddScoped<IUserDao, UserFileDAO>();
+builder.Services.AddScoped<IUserLogic, UserLogic>();
 
 var app = builder.Build();
 
