@@ -1,7 +1,6 @@
-﻿using Application.LogicInterfaces;
+﻿using Application;
 using Domain;
-using Domain.DTOs;
-using Domain.Models;
+
 using Microsoft.AspNetCore.Mvc;
 using static UserCreationDto;
 

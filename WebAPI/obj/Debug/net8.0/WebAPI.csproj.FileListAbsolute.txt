@@ -1,0 +1,7 @@
+C:\Users\bolfa\source\repos\PriorityPilot\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\bolfa\source\repos\PriorityPilot\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolfa\source\repos\PriorityPilot\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\bolfa\source\repos\PriorityPilot\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+C:\Users\bolfa\source\repos\PriorityPilot\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\bolfa\source\repos\PriorityPilot\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bolfa\source\repos\PriorityPilot\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json

@@ -1,0 +1,6 @@
+C:\Users\bolfa\source\repos\PriorityPilot\FileData\obj\Debug\net8.0\FileData.csproj.AssemblyReference.cache
+C:\Users\bolfa\source\repos\PriorityPilot\FileData\obj\Debug\net8.0\FileData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolfa\source\repos\PriorityPilot\FileData\obj\Debug\net8.0\FileData.AssemblyInfoInputs.cache
+C:\Users\bolfa\source\repos\PriorityPilot\FileData\obj\Debug\net8.0\FileData.AssemblyInfo.cs
+C:\Users\bolfa\source\repos\PriorityPilot\FileData\obj\Debug\net8.0\FileData.csproj.CoreCompileInputs.cache
+C:\Users\bolfa\source\repos\PriorityPilot\FileData\obj\Debug\net8.0\FileData.sourcelink.json
