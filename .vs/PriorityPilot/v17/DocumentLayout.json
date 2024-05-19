@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\application\\logic\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|solutionrelative:application\\logic\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\application\\daointerfaces\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|solutionrelative:application\\daointerfaces\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989E066A-9818-48DE-846F-985B1870EA68}|Domain\\Domain.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\domain\\dtos\\searchuserparametersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989E066A-9818-48DE-846F-985B1870EA68}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\searchuserparametersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserDao.cs",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\DaoInterfaces\\IUserDao.cs",
+              "RelativeDocumentMoniker": "Application\\DaoInterfaces\\IUserDao.cs",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\DaoInterfaces\\IUserDao.cs",
+              "RelativeToolTip": "Application\\DaoInterfaces\\IUserDao.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:29:41.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchUserParametersDto.cs",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Domain\\DTOs\\SearchUserParametersDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\SearchUserParametersDto.cs",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Domain\\DTOs\\SearchUserParametersDto.cs",
+              "RelativeToolTip": "Domain\\DTOs\\SearchUserParametersDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:26:50.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLogic.cs",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\Logic\\UserLogic.cs",
+              "RelativeDocumentMoniker": "Application\\Logic\\UserLogic.cs",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\Logic\\UserLogic.cs",
+              "RelativeToolTip": "Application\\Logic\\UserLogic.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAtwCAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:23:05.417Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
