@@ -8,5 +8,13 @@ namespace Domain.DTOs
 {
     internal class TodoCreationDto
     {
+        public int OwnerId { get; }
+        public string Title { get; }
+
+        public TodoCreationDto(int ownerId, string title)
+        {
+            OwnerId = ownerId;
+            Title = title;
+        }
     }
 }
