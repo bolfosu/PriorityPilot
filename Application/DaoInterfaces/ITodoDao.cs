@@ -1,4 +1,5 @@
 ﻿using Domain;
+using Domain.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,4 +12,5 @@ namespace Application.DaoInterfaces
     {
         Task<Todo> CreateAsync(Todo todo);
     }
+    Task<IEnumerable<Todo>> GetAsync(SearchTodoParametersDto searchParameters);
 }
