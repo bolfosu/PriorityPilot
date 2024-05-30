@@ -32,5 +32,10 @@ namespace FileData.DAOs
 
             return Task.FromResult(todo);
         }
+        public Task<Todo?> GetByIdAsync(int todoId)
+        {
+            Todo? existing = context.Todos.FirstOrDefault(t => t.Id == todoId);
+            return Task.FromResult(existing);
+        }
     }
 }
