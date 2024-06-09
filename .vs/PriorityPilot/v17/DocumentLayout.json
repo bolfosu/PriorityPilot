@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4AB9B61F-E605-4B97-B049-7F06401612FB}|FileData\\FileData.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\filedata\\daos\\todofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9B61F-E605-4B97-B049-7F06401612FB}|FileData\\FileData.csproj|solutionrelative:filedata\\daos\\todofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989E066A-9818-48DE-846F-985B1870EA68}|Domain\\Domain.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\domain\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989E066A-9818-48DE-846F-985B1870EA68}|Domain\\Domain.csproj|solutionrelative:domain\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\application\\logicinterfaces\\itodologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D0446-CD19-4876-9E7D-271137D8FFDD}|Application\\Application.csproj|solutionrelative:application\\logicinterfaces\\itodologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989E066A-9818-48DE-846F-985B1870EA68}|Domain\\Domain.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\domain\\dtos\\todoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989E066A-9818-48DE-846F-985B1870EA68}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\todoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989E066A-9818-48DE-846F-985B1870EA68}|Domain\\Domain.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\domain\\dtos\\todocreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989E066A-9818-48DE-846F-985B1870EA68}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\todocreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D967994A-7B40-4C0B-9CAF-A888354AF335}|WebAPI\\WebAPI.csproj|c:\\users\\bolfa\\source\\repos\\prioritypilot\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D967994A-7B40-4C0B-9CAF-A888354AF335}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Domain\\ToDo.cs",
+              "RelativeDocumentMoniker": "Domain\\ToDo.cs",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Domain\\ToDo.cs",
+              "RelativeToolTip": "Domain\\ToDo.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:29:22.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITodoLogic.cs",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\LogicInterfaces\\ITodoLogic.cs",
+              "RelativeDocumentMoniker": "Application\\LogicInterfaces\\ITodoLogic.cs",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Application\\LogicInterfaces\\ITodoLogic.cs",
+              "RelativeToolTip": "Application\\LogicInterfaces\\ITodoLogic.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:28:20.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Domain\\DTOs\\TodoUpdateDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\TodoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Domain\\DTOs\\TodoUpdateDto.cs",
+              "RelativeToolTip": "Domain\\DTOs\\TodoUpdateDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:26:44.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TodoFileDao.cs",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\FileData\\DAOs\\TodoFileDao.cs",
+              "RelativeDocumentMoniker": "FileData\\DAOs\\TodoFileDao.cs",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\FileData\\DAOs\\TodoFileDao.cs",
+              "RelativeToolTip": "FileData\\DAOs\\TodoFileDao.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:25:11.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Domain\\DTOs\\TodoCreationDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\TodoCreationDto.cs",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\Domain\\DTOs\\TodoCreationDto.cs",
+              "RelativeToolTip": "Domain\\DTOs\\TodoCreationDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:24:39.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\bolfa\\source\\repos\\PriorityPilot\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBAAAAA0AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T21:28:08.037Z",
               "EditorCaption": ""
